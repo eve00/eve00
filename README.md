@@ -1,6 +1,6 @@
 
 # 🐈 I'm eve00.
-Learning Android app dev.
+/JetPack Compose/React/ interested in AndroidApp dev.
 
 
 [![](https://raw.githubusercontent.com/eve00/eve00/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
