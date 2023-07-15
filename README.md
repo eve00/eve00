@@ -1,6 +1,8 @@
 
-# 🐈 I'm eve00.
-/JetPack Compose/React/ interested in AndroidApp dev.
+# 🐈 I'm Ibuki Ikeda.
+ - I'm a university student studying Android application development.
+ - I'm interested in software design.
+ - I'm currently having a keen interest in Domain-Driven Design and Functional Programming.
 
 
 [![](https://raw.githubusercontent.com/eve00/eve00/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
