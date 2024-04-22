@@ -1,9 +1,4 @@
 
-# 🐈 I'm Ibuki Ikeda.
- - I'm a university student studying Android application development.
- - I'm interested in software design.
- - I'm currently having a keen interest in Domain-Driven Design.
-
 <img src="https://img.shields.io/badge/-Android-FFFFFF.svg?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/-Kotlin-FFFFFF.svg?logo=kotlin&style=for-the-badge"> <img src="https://img.shields.io/badge/-React-FFFFFF.svg?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/-Typescript-FFFFFF.svg?logo=typescript&style=for-the-badge">
 
 
